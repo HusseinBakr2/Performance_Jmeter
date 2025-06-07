@@ -1,0 +1,2 @@
+Compressed\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\husse\OneDrive\Desktop\Jmeter\WikipediaLoginPage.jmx" -l "C:\Users\husse\OneDrive\Desktop\Jmeter\WikipediaLoginPage.csv" -f -e -o "C:\Users\husse\OneDrive\Desktop\Jmet
+er\Report1"
